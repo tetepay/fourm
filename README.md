@@ -1335,9 +1335,3 @@ fetchWeather(place_name)
   ]
 }
 </code></pre></div></div>
-
-        
-      </footer>
-    </main>
-  </body>
-</html>
