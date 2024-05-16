@@ -1,9 +1,4 @@
-<!DOCTYPE html>
-<html class="zyyo.net">
-<head class="zyyo.net">
-	<meta charset="utf-8">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>BBAC</title>
+
 	<link rel="icon" href="https://fourm.js.org/">
 	<meta name="description" content="分享个人经验杂谈">
 	<meta name="keywords" content="fourm.js.org,个人网站">
