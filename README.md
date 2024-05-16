@@ -1335,8 +1335,7 @@ fetchWeather(place_name)
   ]
 }
 </code></pre></div></div>
-<p>It's a bit simple at the moment. But as I said, pretty much a work in progress. It could work if you use the current version the moment, but why not.</p>
-      <footer class="site-footer">
+
         
       </footer>
     </main>
