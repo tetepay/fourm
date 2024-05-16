@@ -1,4 +1,4 @@
-console.log('%cCopyright © 2020-Now 叶玖洛·星尘. All rights reserved.',
+console.log('%cCopyright © 2024-Now BB·AC. All rights reserved.',
     'background-color: #ff00ff; color: white; font-size: 24px; font-weight: bold; padding: 10px;'
 );
 console.log('%c   /\\_/\\', 'color: #8B4513; font-size: 20px;');
