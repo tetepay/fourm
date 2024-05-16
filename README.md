@@ -189,8 +189,4 @@
 			<img class="tc-img" src="index.html" alt="" srcset="">
 		</div>
 	</div>
-</body>
-<script src="static/js/script.js"> </script>
-<script charset="UTF-8" id="LA_COLLECT" src="js-sdk-pro.min.js"></script>
-<script>LA.init({ id: "KFqltKSkJgQTGD9l", ck: "KFqltKSkJgQTGD9l" })</script>
-</html>
+
