@@ -1,11 +1,4 @@
 
-	<link rel="icon" href="https://fourm.js.org/">
-	<meta name="description" content="分享个人经验杂谈">
-	<meta name="keywords" content="fourm.js.org,个人网站">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-	<link rel="stylesheet" href="static/css/style.css">
-	<link rel="stylesheet" href="static/css/root.css">
-</head>
 
 <body>
 	<div id="zyyo-loading">
